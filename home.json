@@ -89,8 +89,8 @@
 			},
 			{
 				"name": "Streamer",
-				"icon": "7d1d0ea9f1e1",
-				"version": "1.2.5",
+				"icon": "0d291ba5b0ff",
+				"version": "1.2.10",
 				"bundleID": "co.starfiles.40357987",
 				"description": "Movie app using websites as sources"
 			},
